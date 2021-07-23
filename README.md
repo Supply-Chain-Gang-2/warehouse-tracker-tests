@@ -1,6 +1,7 @@
-# Rubric End to End Tests
+# End to End Tests
 
 from terminal
 > npm run cypress:open
 
-with front-end running locally
+Works with front-end running locally or deployed,
+just adjust baseUrl in cypress.json
